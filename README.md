@@ -9,7 +9,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif">
+  <img align="right" alt="Rafa-yoda" height="50" width="50" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif">
 </div>
   
   ##
